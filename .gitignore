@@ -1,0 +1,13 @@
+build/
+.next/
+_next/
+example/
+example/out/
+
+node_modules/
+dist/
+coverage/
+
+.DS_Store
+logs
+*.log
